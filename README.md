@@ -18,7 +18,6 @@ By completing this project, you will demonstrate the ability to:
 - **Implement the menu and table booking APIs:** Developing RESTful APIs for menu management and table bookings.
 - **Set up user registration and authentication:** Managing user accounts, including registration, login, and authentication.
 - **Test the application with unit tests and Insomnia:** Ensuring the application is reliable and bug-free.
-- **Synthesize the skills from this course and evaluate other learners:** Reflecting on the learning experience and providing feedback.
 - **Reflect on this project's content and on the learning path that lies ahead:** Planning future learning and career steps.
 
 
