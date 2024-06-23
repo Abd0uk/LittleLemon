@@ -3,7 +3,9 @@
 
 ## Overview
 
-This Capstone project is the final assignment of the [Backend Development Specialization](https://www.coursera.org/learn/back-end-developer-capstone/). The project showcases the skills and knowledge acquired throughout the course by solving a real-world problem. In this project, a Django web application is developed with multiple API endpoints and a MySQL database integration.
+This Capstone project is the final assignment of the [Backend Development Specialization](https://www.coursera.org/learn/back-end-developer-capstone/). 
+
+The project showcases the skills and knowledge acquired throughout the course by solving a real-world problem. In this project, a Django web application is developed with multiple API endpoints and a MySQL database integration.
 
 ## Project Objectives
 
