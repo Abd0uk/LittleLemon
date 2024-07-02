@@ -13,9 +13,10 @@ def index(request):
 #? Menu Model Views
 
 class MenuItemView(ListCreateAPIView): # POST & GET Methods calls.
+    permission_classes = [IsAuthenticated]
     queryset = Menu.objects.all()
     serializer_class = MenuSerializer
-    
+
 
 class SingleMenuItemView(RetrieveUpdateAPIView, DestroyAPIView): # GET, PUT and DELETE calls.
     queryset = Menu.objects.all()
