@@ -13,7 +13,7 @@ def index(request):
 #? Menu Model Views
 
 class MenuItemView(ListCreateAPIView): # POST & GET Methods calls.
-    permission_classes = [IsAuthenticated]
+    # permission_classes = [IsAuthenticated]
     queryset = Menu.objects.all()
     serializer_class = MenuSerializer
 
